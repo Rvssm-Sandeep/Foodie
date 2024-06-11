@@ -1,2 +1,2 @@
 # Foodie-calorie-finder
- Allows you to find colries in your food
+ Allows you to find calories in your food
